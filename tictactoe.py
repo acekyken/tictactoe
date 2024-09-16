@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 input_row = "Please select a row by typing number 0, 1 or 2"
 input_col = "Please select a column by typing number 0, 1 or 2"
 print_player = "You are player {} and your sign is {}"
